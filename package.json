@@ -48,7 +48,7 @@
     "@types/aws-lambda": "^8.10.62",
     "aws-sdk": "^2.753.0",
     "axios": "^0.20.0",
-    "bignumber.js": "^9.0.0",
+    "bignumber.js": "^9.1.2",
     "bluebird": "^3.7.2",
     "copy-webpack-plugin": "^6.1.0",
     "crypto": "^1.0.1",
