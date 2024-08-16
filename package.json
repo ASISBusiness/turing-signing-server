@@ -45,7 +45,7 @@
     "@middy/http-header-normalizer": "^1.4.0",
     "@stellar-expert/tx-signers-inspector": "^1.0.1",
     "@tinyanvil/http-multipart-body-parser": "^1.0.1",
-    "@types/aws-lambda": "^8.10.62",
+    "@types/aws-lambda": "^8.10.142",
     "aws-sdk": "^2.753.0",
     "axios": "^0.20.0",
     "bignumber.js": "^9.0.0",
