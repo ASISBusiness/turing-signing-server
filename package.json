@@ -50,7 +50,7 @@
     "axios": "^0.20.0",
     "bignumber.js": "^9.0.0",
     "bluebird": "^3.7.2",
-    "copy-webpack-plugin": "^6.1.0",
+    "copy-webpack-plugin": "^10.0.0",
     "crypto": "^1.0.1",
     "fs": "0.0.1-security",
     "lodash": "^4.17.20",
