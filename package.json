@@ -43,7 +43,7 @@
     "@middy/core": "^1.4.0",
     "@middy/do-not-wait-for-empty-event-loop": "^1.4.0",
     "@middy/http-header-normalizer": "^1.4.0",
-    "@stellar-expert/tx-signers-inspector": "^1.0.1",
+    "@stellar-expert/tx-signers-inspector": "^1.3.0",
     "@tinyanvil/http-multipart-body-parser": "^1.0.1",
     "@types/aws-lambda": "^8.10.62",
     "aws-sdk": "^2.753.0",
@@ -58,9 +58,9 @@
     "pg": "^8.3.3",
     "require-from-string": "^2.0.2",
     "seedrandom": "^3.0.5",
-    "sha.js": "^2.4.11",
+    "sha.js": "^2.4.12",
     "source-map-support": "^0.5.19",
-    "stellar-sdk": "^5.0.4",
+    "stellar-sdk": "^13.3.0",
     "toml": "^3.0.0"
   }
 }
